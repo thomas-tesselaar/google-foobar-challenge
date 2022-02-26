@@ -1,4 +1,4 @@
-These are the solutions to all the foo-bar questions I've come across
+These are the solutions to all the Google foobar questions I've come across
 <br>
 All work is original
 <br>
